@@ -1,0 +1,25 @@
+.projects h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.projects img{
+    -webkit-box-shadow: 6px 41px -24px rgba(0,0,0,0.78);
+    -moz-box-shadow: 6px 4px 41px -24px rgba(0,0,0,0.78);
+    box-shadow: 6px 4px 41px -24px rgba(0,0,0,0.78);
+} 
+
+.card{
+    border: none;
+    outline: none;
+}
+
+.card-body p{
+    color: gray;
+    margin-top: 20px;
+}
+  
+.projects img{
+    max-width: 100%;
+    height: auto;
+}
+  
